@@ -2,6 +2,12 @@ Written by Marshall Wilson
 Started: 1/27/2021
 Updated: 1/27/2021
 
+This project is intended to be a webapp that will use data from a user's 
+spotify profile (top genres, followed playlists, listening patterns, etc.) 
+and a k-means clustering model based on previous users to predict the 
+astrological sign of the user. 
+
 * Recognition * 
     Thanks to Traversy Media, whose python webapp tutorial was helpful in the 
         development of the initial prototype 
+    Thanks to the-pudding whose "bad music analyzer" inspired this project 
